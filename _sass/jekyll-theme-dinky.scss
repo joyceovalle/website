@@ -206,10 +206,12 @@ td {
 	background: #ccc;
  }
 
-
-/* Wrapper */
+/*Wrapper */
 .wrapper {
-  width:960px;
+  max-width: 90vw;    /* 90% of viewport */
+  min-width: 800px;   /* prevent being too narrow on small screens */
+  margin: 0 auto;
+  padding: 2rem;
 }
 
 
@@ -422,3 +424,4 @@ footer {
     color:#444;
   }
 }
+
