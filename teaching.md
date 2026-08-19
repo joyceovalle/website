@@ -10,8 +10,8 @@ Dr. Ovalle is prepared to teach introductory and advanced courses in public poli
 ## Classroom Experience
 
 - **Teaching Assistant (Classroom Instruction)**  
-  *Analytical Methods for Global Policy Studies*, LBJ School of Public Affairs, The University of Texas at Austin (Professor Ji Ma) 
-  Led in-class sessions; designed and taught modules on theoretical frameworks, qualitative analysis, and data visualization; guided team projects; held office hours; and provided detailed feedback on written and applied work.
+  *Analytical Methods for Global Policy Studies*, LBJ School of Public Affairs, The University of Texas at Austin (Professor Ji Ma)  
+  Led in- person teaching sessions; designed and taught modules on theoretical frameworks, qualitative analysis, and data visualization; guided team projects; held office hours; and provided detailed feedback on written and applied work.
 
 - **Grading Assistant (Assessment and Feedback)**  
   *Writing and Communications in Public Policy*, LBJ School of Public Affairs, The University of Texas at Austin (Professor Mike O’Connor) 
