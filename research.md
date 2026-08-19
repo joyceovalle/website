@@ -14,8 +14,7 @@ Her work engages four interconnected areas of inquiry:
 - **Funding Structures for Nonprofit Advocacy**  
 - **Messaging Strategies in a Heterogeneous Nonprofit Sector**
 
-
-
+<br>
 
 ## Postdoctoral Fellowship
 **_[Let's Talk Democracy Funding: Payout Rates, Pluralism, and Readiness at America's 250th](https://nonprofitquarterly.org/lets-talk-democracy-funding-payout-rates-pluralism-and-readiness-at-americas-250th/)_**  
