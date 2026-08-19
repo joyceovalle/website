@@ -21,9 +21,11 @@ Her work engages four interconnected areas of inquiry:
 As a postdoctoral fellow with PARCC, Dr. Ovalle leads the research design, implementation, and writing of practice-oriented guides for democracy funding, drawing on her expertise in philanthropy alongside the computational and statistical tools developed in her dissertation.
 
 
+
 ## Dissertation
 **_Environmental Nonprofits in U.S. Climate Governance: Understanding Resources, Rhetoric, and Heterogeneity_**  
 This dissertation research leverages network analysis, regression modeling, and large-scale text analysis to examine how environmental nonprofits' funding patterns, messaging strategies, and organizational diversity shape decision-making, climate priorities, and resource mobilization across the United States.
+
 
 
 ## Working Papers
@@ -32,9 +34,11 @@ This dissertation research leverages network analysis, regression modeling, and 
 This study examines organizational, financial, and contextual factors associated with how Environmental Nonprofit Organizations (ENPOs) in the United States signal climate change and social justice priorities in their agendas. Using a computational workflow, the analysis identifies a national sample of ENPOs across 25 subsectors (N=10,411) and applies descriptive statistics and regression modeling to assess variation in messaging likelihood and emphasis. Findings show that approximately 29% of ENPOs reference climate change and social justice, though the strength of emphasis differs across organizations. Lobbying activity and greater financial assets are positively associated with alignment, while stronger financial performance is inversely associated with emphasis. Additional patterns show that younger organizations and those headquartered in Democratic-leaning counties are more likely to reference these objectives. Together, these results highlight how organizational characteristics, financial capacities, and contextual environments shape the communication of climate-related agendas within the nonprofit sector.  
 
 
+
 ## Work in Development
 - **Ovalle, J.**, Bixler, R. P., & Ma, J. *Beyond a Shared Cause: A Topic Analysis of How Environmental Nonprofits Frame Their Climate Priorities.* (In development)  
 - **Ovalle, J.**, Searing, E.A.M. *Public Funding for Social Enterprises.* In P. Frumkin and N. Yoon (Eds.), *Encyclopedia of Social Enterprises.* Edward Elgar. (In development)  
+
 
 
 ## Publications
