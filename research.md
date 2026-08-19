@@ -16,16 +16,14 @@ Her work engages four interconnected areas of inquiry:
 
 
 
-## Dissertation
-**_Environmental Nonprofits in U.S. Climate Governance: Understanding Resources, Rhetoric, and Heterogeneity_**
-
-This dissertation research leverages network analysis, regression modeling, and large-scale text analysis to examine how environmental nonprofits' funding patterns, messaging strategies, and organizational diversity shape decision-making, climate priorities, and resource mobilization across the United States.
-
-
 ## Postdoctoral Fellowship
-**_[Let's Talk Democracy Funding: Payout Rates, Pluralism, and Readiness at America's 250th](https://nonprofitquarterly.org/lets-talk-democracy-funding-payout-rates-pluralism-and-readiness-at-americas-250th/)_**
-
+**_[Let's Talk Democracy Funding: Payout Rates, Pluralism, and Readiness at America's 250th](https://nonprofitquarterly.org/lets-talk-democracy-funding-payout-rates-pluralism-and-readiness-at-americas-250th/)_**  
 As a postdoctoral fellow with PARCC, Dr. Ovalle leads the research design, implementation, and writing of practice-oriented guides for democracy funding, drawing on her expertise in philanthropy alongside the computational and statistical tools developed in her dissertation.
+
+
+## Dissertation
+**_Environmental Nonprofits in U.S. Climate Governance: Understanding Resources, Rhetoric, and Heterogeneity_**  
+This dissertation research leverages network analysis, regression modeling, and large-scale text analysis to examine how environmental nonprofits' funding patterns, messaging strategies, and organizational diversity shape decision-making, climate priorities, and resource mobilization across the United States.
 
 
 ## Working Papers
