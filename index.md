@@ -14,7 +14,7 @@ Her scholarship is grounded in the theoretical foundations of public policy and 
 
 Dr. Ovalle’s research has appeared in *Nonprofit Policy Forum*, *PLOS ONE*, and the *Journal of the Association for Information Science and Technology*. Her teaching and professional perspective are informed by prior roles at the *Urban Institute’s Center on Nonprofits and Philanthropy* and the *U.S. Department of Energy*.
 
-A proud first-generation graduate of Texas public schools, Dr. Ovalle is also a long-distance runner, yoga student, and art appreciator.
+A proud first-generation graduate of public schools, Dr. Ovalle is also a long-distance runner, yoga student, and art appreciator.
 
 ---
 
